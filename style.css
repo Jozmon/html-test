@@ -1,0 +1,63 @@
+img {
+    border-color: forestgreen;
+    border-radius: 50%;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+
+h3 {
+    text-align: center;
+
+}
+
+
+p {
+    text-align: center;
+
+}
+
+p.about.me {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+ul.centerContainer {
+    text-align: left;
+    display: inline-block;
+}
+
+form {
+
+    text-align: center;
+    margin-bottom: 100;
+}
+
+input {
+    margin: 5px;
+
+}
+
+
+div.centeredContainer {
+    text-align: center;
+    padding-bottom: 130px;
+}
+
+
+div.top {
+background-color: lightblue;
+padding-top: 25px;
+padding-bottom: 25px;
+}
+
+div.bottom {
+    background-color: lightgray;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
